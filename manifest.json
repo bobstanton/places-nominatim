@@ -1,0 +1,11 @@
+{
+	"id": "places-nominatim",
+	"name": "Places - Nominatim",
+	"version": "0.0.1",
+	"minAppVersion": "1.13.0",
+	"description": "Search provider for Places using Nominatim and OpenStreetMap, with free geocoding and POI search.",
+	"author": "Bob Stanton",
+	"authorUrl": "https://github.com/bobstanton",
+	"fundingUrl": "https://ko-fi.com/bobsoftware",
+	"isDesktopOnly": false
+}
