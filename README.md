@@ -2,6 +2,8 @@
 
 Search provider for [Places](https://community.obsidian.md/plugins/places) using [Nominatim](https://nominatim.org/), with POI search over OpenStreetMap data. It renders no map, so it pairs with any map provider.
 
+This is not a stand-alone plugin, to use, install along side [Places](https://community.obsidian.md/plugins/places). Refer to the [sandbox](https://sandbox.obsidian.stanton.dev/places/) for examples.
+
 ## Network requests
 
 | Area       | Request                                                     |

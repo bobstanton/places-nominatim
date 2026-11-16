@@ -8,7 +8,7 @@ export const NOMINATIM_HEADERS = {
   "Accept": "application/json"
 };
 
-export const NOMINATIM_BASE_URL = "https://nominatim.openstreetmap.org";
+export { NOMINATIM_BASE_URL } from "places-nominatim/core";
 
 class NominatimRateLimiterClass {
   private limiter = new FixedIntervalRateLimiter(1100);
